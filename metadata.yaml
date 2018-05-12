@@ -1,0 +1,37 @@
+_repo: Histoire-de-la-Litt-rature-Anglaise--Volume-5-de-5-_41114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Taine, Hippolyte
+    aliases:
+    - Taine, Hippolyte Adolphe
+    - Taine, H. A. (Hippolyte Adolphe)
+    - Graindorge, Frédéric-Thomas
+    - Graindorge, Frederic-Thomas
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '969'
+    url: http://www.gutenberg.org/2009/agents/969
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Hippolyte_Taine
+    - http://en.wikipedia.org/wiki/Hippolyte_Taine
+description: ''
+gutenberg_bookshelf:
+- France
+- FR Littérature
+gutenberg_issued: '2012-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41114'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- History and criticism'
+- !lcc 'PR'
+title: Histoire de la Littérature Anglaise (Volume 5 de 5)
+url: http://www.gutenberg.org/ebooks/41114
