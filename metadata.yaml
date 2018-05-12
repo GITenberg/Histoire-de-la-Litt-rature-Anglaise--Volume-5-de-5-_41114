@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Hippolyte_Taine
     - http://en.wikipedia.org/wiki/Hippolyte_Taine
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41114#Histoire-de-la-Litt-rature-Anglaise--Volume-5-de-5-
 gutenberg_bookshelf:
 - France
 - FR Littérature
